@@ -1,0 +1,5 @@
+! Title: gitdev-bash Blacklist Ads
+! Expires: 4 days
+! Description: A Blocklist to block Ads
+! Homepage: https://github.com/gitdev-bash/Blacklists
+

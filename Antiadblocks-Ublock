@@ -1,0 +1,14 @@
+! Title: gitdev-bash Blacklist Antiadblocks
+! Expires: 4 days
+! Description: A Blocklist block Antiadblocks
+! Homepage: https://github.com/gitdev-bash/Blacklists
+
+! antiadblockscript.com
+antiadblockscript.com##.hoOcbG0CqpjS
+antiadblockscript.com##.hoOcbG0CqpjS-bg
+
+! anti-adblocker.cf
+anti-adblocker.cf##^script:has-text(advert4)
+
+! blockadblock.com
+blockadblock.com##+js(nobab)

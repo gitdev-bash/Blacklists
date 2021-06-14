@@ -1,0 +1,10 @@
+! Title: gitdev-bash Blacklist Ads
+! Expires: 4 days
+! Description: A Blocklist to block Ads
+! Homepage: https://github.com/gitdev-bash/Blacklists
+
+recyclingportal.eu##.adv-link
+||recyclingportal.eu/wp-content/uploads/2021/05/Eggersmann-728_90_Animation_2.gif$image,1p
+||recyclingportal.eu/wp-content/uploads/2021/05/Banner_WEIMA.gif$image,1p
+||recyclingportal.eu/wp-content/uploads/2020/12/ARJES_EU-Recycling_FullBanner.gif$image,1p
+

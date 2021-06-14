@@ -1,0 +1,11 @@
+! Title: gitdev-bash Blacklist Privacy
+! Expires: 4 days
+! Description: A Blocklist to Ensure Privacy
+! Homepage: https://github.com/gitdev-bash/Blacklists
+
+!# Removeparam
+
+||duckduckgo.com^$removeparam=t,doc
+||ecosia.org^$removeparam=addon,doc
+
+
